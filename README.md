@@ -22,9 +22,9 @@
 
 ## 🚀 Tech and Tools Used
 
-- React.JS ,Redux ,NodeJS ,ExpressJs,MongoDB
-- VS code,Heruko
-- React Icons,REST APIS ,JWT ,GoogleAPIs,Yup
+- React.JS , NodeJS ,ExpressJs,MongoDB
+- VS code
+- React Icons
 
 ## 📸 Screenshots
 
