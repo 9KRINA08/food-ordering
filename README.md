@@ -6,7 +6,7 @@
 <br>
 
 > Food Delivery app made using MERN stack (UNDER DEVLOPEMENT) <br>
-> APP uses morden React and NodeJS features like Modules ,Skeletons , React Portals ,Redux thunk<br>
+> APP uses morden React and NodeJS features like Modules 
 > Followed MVC architecture and microservices for serever side
 
 ## ⚙️ Detailed Functionality
@@ -38,6 +38,4 @@
 <img src="./custom-pizza.png" width='800' height='auto'>
 <br>
 
-### LINK :
 
-https://rio-ci4k.onrender.com/
